@@ -37,5 +37,10 @@ ExportedObj/
 ehthumbs.db
 Thumbs.db
 
-# Exclude old superseded draft folder
+# Documentation, presentations, and video recordings (keep out of code repo)
+GMD FILES NEW/
 GMD FILES OLD/
+*.docx
+*.pptx
+*.mp4
+Gemini_Fix_Prompt.md
